@@ -6,3 +6,4 @@ Voice Changer
 基于sound touch c++库 以及 libmp3lame 实现音频转换。
 
 希望能为各位开发工作提供一些帮助。
+
